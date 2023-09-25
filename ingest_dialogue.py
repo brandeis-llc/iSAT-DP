@@ -9,22 +9,23 @@ DATA_FOLDER = Path("data")
 BLOCK_NAME = {"red", "yellow", "green", "blue", "purple", "brown", "mystery"}
 PRONOUNS = {
     "it",
-    "its",
+    # "its",
     "they",
     "them",
-    "their",
+    # "their",
     "this",
     "that",
     "these",
     "those",
 }
 
-BLOCK_NAME_PATTERN = rf"{'|'.join(BLOCK_NAME)}"
-PRONOUN_PATTERN = rf"\b({'|'.join(PRONOUNS)})\s"
+BLOCK_NAME_PATTERN = rf"\b({'|'.join(BLOCK_NAME)})\b"
+PRONOUN_PATTERN = rf"\b({'|'.join(PRONOUNS)})\b"
 
 
 @define
 class Utterance:
+    id: int
     speaker_id: int
     start: float
     end: float
@@ -59,7 +60,7 @@ def ingest_dialogue(group_id: int) -> Dialogue:
     csv_df = read_transcript_csv(csv_file)
     utterances = []
     for _, row in csv_df.iterrows():
-        utt = Utterance(row.Participant, row.Start, row.End, row.Transcript.strip().lower())
+        utt = Utterance(row.Utterance, row.Participant, row.Start, row.End, row.Transcript.strip().lower())
         utterances.append(utt)
     dialogue = Dialogue(group_id, utterances)
     return dialogue
