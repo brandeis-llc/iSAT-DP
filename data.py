@@ -1,14 +1,15 @@
 import re
 from typing import List
+from pathlib import Path
 from attrs import define, field
+
+DATA_FOLDER = Path(__file__).parent.joinpath("data")
 
 BLOCK_NAME = {"red", "yellow", "green", "blue", "purple", "brown", "mystery"}
 PRONOUNS = {
     "it",
-    # "its",
     "they",
     "them",
-    # "their",
     "this",
     "that",
     "these",
@@ -21,21 +22,22 @@ PRONOUN_PATTERN = rf"\b({'|'.join(PRONOUNS)})\b"
 
 @define
 class ActionComponent:
-    verb: str
-    obj: str
+    verb: str = field(default=None)
+    obj: str = field(default=None)
     prep: str = field(default=None)
     loc: str = field(default=None)
     other_text: str = field(default=None)
 
     @classmethod
     def from_str(cls, action_str: str):
-        parts = action_str.split("-", 1)
+        # annotation errors will break this string parsing method
+        parts = action_str.split(" ", 1)
         if len(parts) == 2:
             comp, other = parts
         else:
             comp = parts[0]
             other = None
-        comp_lst = [c for c in re.split(r"\(|\)|,", comp.strip()) if c]
+        comp_lst = [c for c in re.split(r"\(|\)|,", comp.strip()) if c][:4]
         return cls(*comp_lst, other_text=other)
 
 

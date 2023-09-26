@@ -1,12 +1,12 @@
 import xml.etree.ElementTree as ET
 from typing import List
-from data import Action, ActionComponent
+from data import Action, ActionComponent, DATA_FOLDER
 
 
 def ingest_action_xml(group_id: int) -> List[Action]:
     time_slots = dict()
     actions = []
-    tree = ET.parse(f"data/Group_0{group_id}_Actions.eaf")
+    tree = ET.parse(DATA_FOLDER.joinpath(f"Group_{str(group_id).zfill(2)}_Actions.eaf"))
     root = tree.getroot()
     for st in root.find("TIME_ORDER").findall("TIME_SLOT"):
         st_id = st.get("TIME_SLOT_ID")
@@ -20,19 +20,22 @@ def ingest_action_xml(group_id: int) -> List[Action]:
             annotation_id = aligned.get("ANNOTATION_ID")
             ts_ref1 = aligned.get("TIME_SLOT_REF1")
             ts_ref2 = aligned.get("TIME_SLOT_REF2")
-            text = aligned.find("ANNOTATION_VALUE").text.strip()
+            text = aligned.find("ANNOTATION_VALUE").text
+            if not text:
+                # ANNOTATION_VALUE could be empty?
+                continue
             action = Action(
                 annotation_id,
                 tier_id,
                 time_slots[ts_ref1],
                 time_slots[ts_ref2],
-                ActionComponent.from_str(text),
+                ActionComponent.from_str(text.strip()),
             )
             actions.append(action)
     return actions
 
 
 if __name__ == "__main__":
-    actions = ingest_action_xml(1)
+    actions = ingest_action_xml(4)
     for a in actions:
         print(a)

@@ -1,10 +1,8 @@
 import os
 from typing import Union
-from pathlib import Path
 import pandas as pd
-from data import Utterance, Dialogue
+from data import Utterance, Dialogue, DATA_FOLDER
 
-DATA_FOLDER = Path("data")
 BLOCK_NAME = {"red", "yellow", "green", "blue", "purple", "brown", "mystery"}
 PRONOUNS = {
     "it",
@@ -28,7 +26,7 @@ def read_transcript_csv(csv_file: Union[str, os.PathLike]):
 
 
 def ingest_dialogue(group_id: int) -> Dialogue:
-    csv_file = DATA_FOLDER.joinpath(f"Group_0{group_id}_Oracle.csv")
+    csv_file = DATA_FOLDER.joinpath(f"Group_{str(group_id).zfill(2)}_Oracle.csv")
     csv_df = read_transcript_csv(csv_file)
     utterances = []
     for _, row in csv_df.iterrows():

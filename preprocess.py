@@ -1,6 +1,6 @@
 from typing import List
 
-from data import Dialogue, Utterance, Action
+from data import Dialogue, Utterance, Action, DATA_FOLDER
 from ingest_action import ingest_action_xml
 from ingest_dialogue import ingest_dialogue
 import pandas as pd
@@ -47,21 +47,22 @@ def align_action_utterance(
 
 
 if __name__ == "__main__":
-    group_number = 1
-    dialogue = ingest_dialogue(group_number)
-    uttrs, keywords = extract_valid_utterances(dialogue)
-    actions = ingest_action_xml(group_number)
-    uttrs = align_action_utterance(actions, uttrs)
+    for n in range(1, 11):
+        dialogue = ingest_dialogue(n)
+        actions = ingest_action_xml(n)
 
-    out_rows = []
-    for u, k in zip(uttrs, keywords):
-        action_str = ", ".join(
-            f"{action.annotation_id}-{action.component.obj}" for action in u.actions
-        )
-        out_rows.append(
-            [u.speaker_id, u.start, u.end, u.text, ", ".join(k), action_str]
-        )
-    pd.DataFrame(
-        out_rows,
-        columns="Participant Start End Transcript keywords Action_Objects".split(),
-    ).to_csv(f"out_{group_number}.csv", index=False)
+        uttrs, keywords = extract_valid_utterances(dialogue)
+        uttrs = align_action_utterance(actions, uttrs)
+
+        out_rows = []
+        for u, k in zip(uttrs, keywords):
+            action_str = ", ".join(
+                f"{action.annotation_id}-{action.component.obj}" for action in u.actions
+            )
+            out_rows.append(
+                [u.speaker_id, u.start, u.end, u.text, ", ".join(k), action_str]
+            )
+        pd.DataFrame(
+            out_rows,
+            columns="Participant Start End Transcript keywords Action_Objects".split(),
+        ).to_csv(DATA_FOLDER.joinpath(f"filtered_aligned/Group_0{n}.csv"), index=False)
