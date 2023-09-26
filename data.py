@@ -1,5 +1,5 @@
 import re
-from typing import List
+from typing import List, Tuple
 from pathlib import Path
 from attrs import define, field
 
@@ -64,12 +64,14 @@ class Utterance:
         return self.speaker_id == 4
 
     @property
-    def contain_block_name(self) -> List[str]:
-        return re.findall(BLOCK_NAME_PATTERN, self.text)
+    def contain_block_name(self) -> List[Tuple]:
+        matches = re.finditer(BLOCK_NAME_PATTERN, self.text)
+        return [(m.group(), *m.span()) for m in matches]
 
     @property
-    def contain_pronouns(self) -> List[str]:
-        return re.findall(PRONOUN_PATTERN, self.text)
+    def contain_pronouns(self) -> List[Tuple]:
+        matches = re.finditer(PRONOUN_PATTERN, self.text)
+        return [(m.group(), *m.span()) for m in matches]
 
 
 @define

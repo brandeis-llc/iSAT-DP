@@ -6,10 +6,8 @@ from data import Utterance, Dialogue, DATA_FOLDER
 BLOCK_NAME = {"red", "yellow", "green", "blue", "purple", "brown", "mystery"}
 PRONOUNS = {
     "it",
-    # "its",
     "they",
     "them",
-    # "their",
     "this",
     "that",
     "these",

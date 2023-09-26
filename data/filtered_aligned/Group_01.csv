@@ -1,103 +1,43 @@
-Participant,Start,End,Transcript,keywords,Action_Objects
-3,58.33,58.84,it's right there,it,
-3,70.51,70.01,um it's turned off,it,
-1,78.08,80.58,ok well it would be nine minus ten,it,"a2-RedBlock, a206-RedBlock"
-2,80.58,84.3,that's ten so then,that,"a3-BlueBlock, a207-BlueBlock"
-1,86.07,87.41,just like put it on,it,
-3,95.19,97.17,it seems pretty balanced,it,
-1,97.56,102.03,yeah ok so now we know that this is also ten,"that, this","a4-BlueBlock, a208-BlueBlock"
-1,106.23,110.01,what would we maybe put that one on there too,that,"a5-PurpleBlock, a6-BlueBlock, a209-PurpleBlock"
-2,112.16,112.92,it's more,it,
-1,114.87,120.33,lets try this one oh gee louise this one,"this, this","a7-PurpleBlock, a8-YellowBlock, a9-YellowBlock, a10-GreenBlock, a210-PurpleBlock, a25-None, a26-None, a211-GreenBlock"
-2,127.35,132.0,ok so this one is probably twenty ten ten twenty,this,
-1,132.27,139.65,ok so now lets start at thirty alright put one of those on there,those,"a11-GreenBlock, a12-RedBlock, a13-GreenBlock, a14-PurpleBlock, a29-GreenBlock, a212-PurpleBlock"
-2,142.91,144.92,probably thirty at this point,this,
-1,148.86,159.42,ok so we got ok yeah this one is really heavy so lets do the a this and a ten,"this, this","a15-PurpleBlock, a16-YellowBlock, a17-GreenBlock, a31-PurpleBlock, a33-BlueBlock"
-1,169.31,171.99,interesting so that's ten twenty,that,
-1,172.56,183.58,so we said this ones thirty i still feel like that's heavier and this one is twenty,"this, that, this",
-2,174.54,185.08,yeah yeah the blue dark blue one is thirty that's the larger one it's slightly heavier yeah,"blue, blue, that, it",a20-GreenBlock
-3,185.33,187.83,we can replace one of these with the twenty to get,these,
-1,189.91,196.44,ok and then put that on that one,"that, that","a36-BlueBlock, a37-BlueBlock, a228-BlueBlock, a229-GreenBlock, a49-BlueBlock, a58-GreenBlock"
-2,198.15,202.14,how much is the dark blue small one ten,blue,
-1,200.31,201.37,ten they're both,they,
-1,203.49,204.34,assuming that this was,"that, this",
-2,204.58,206.37,oh gosh i think i got them mixed up,them,
-1,207.06,210.87,yeah im thinking that it's ten ten twenty thirty,"that, it",
-2,216.16,217.66,it's just like slightly,it,
-1,228.06,231.51,and now it stopped being too heavy,it,
-1,231.54,233.52,so this is supposedly,this,
-1,234.27,239.82,thirty fourty fifty correct and it's still heavier than this thing,"it, this",
-1,251.88,258.72,so thirty this is also forty right so this if forty yeah,"this, this","a43-PurpleBlock, a61-GreenBlock, a62-BlueBlock"
-2,254.63,255.31,ok so that one's twenty right,that,
-1,260.01,263.82,this is fifty it's not,"this, it","a44-GreenBlock, a54-GreenBlock"
-1,264.93,267.36,yo that's close enough ok so,that,
-3,268.08,272.58,yeah fifty so we say yellow is fifty,yellow,"a45-YellowBlock, a46-PurpleBlock, a55-YellowBlock, a56-PurpleBlock"
-3,274.26,280.32,and green is twenty ok so which one is blue and which one is purple,"green, blue, purple",
-1,275.83,277.75,i think that's i think that's good,"that, that",
-2,281.25,283.48,i think this one is purple and this one is blue,"purple, blue, this, this",
-3,282.25,286.26,ok so blue is ten and purple is,"blue, purple",a214-BlueBlock
-1,288.92,292.47,yes verify real quick but i think it is,it,"a215-PurpleBlock, a47-GreenBlock, a65-PurpleBlock, a57-None, a119-PurpleBlock, a64-RedBlock"
-1,295.32,304.62,yeah we got them yeah,them,"a66-PurpleBlock, a67-GreenBlock, a120-PurpleBlock, a121-None, a122-RedBlock"
-1,304.68,305.58,that looks good to me,that,
-1,308.28,312.3,uh blue yeah so you said purple sweet,"blue, purple",
-2,312.93,315.42,purple is thirty red is twenty yellow is fifty,"purple, red, yellow",
-1,342.06,347.07,yeah cause if you feel the yellow one oh yeah so yeah,yellow,"a69-MysteryBlock, a230-YellowBlock, a231-YellowBlock"
-1,354.36,359.76,ok so we got this ok,this,"a72-MysteryBlock, a73-PurpleBlock, a232-YellowBlock"
-1,361.23,365.07,ooh that seems pretty good pretty close to me,that,"a74-MysteryBlock, a123-YellowBlock"
-2,365.49,367.98,how much was purple thirty,purple,"a75-MysteryBlock, a76-MysteryBlock, a124-YellowBlock, a125-YellowBlock"
-2,368.7,369.42,purple was thirty,purple,
-2,370.86,372.84,and yellow was fifty,yellow,"a77-YellowBlock, a78-MysteryBlock"
-1,373.89,380.58,yeah try picking these two up and you can close your eyes and try to hold it from the,"these, it","a79-MysteryBlock, a80-MysteryBlock, a127-YellowBlock, a128-YellowBlock"
-3,385.08,388.41,i almost feel like this one is still heavier,this,"a81-MysteryBlock, a129-YellowBlock"
-2,394.62,399.66,this one feels heavier still add like ten to this side i think,"this, this","a83-MysteryBlock, a84-BlueBlock, a131-YellowBlock"
-2,402.81,406.89,it still feels heavier but it could just be,"it, it","a85-MsyteryBlock, a132-YellowBlock"
-3,407.58,410.37,it is definitely denser which could be skewing,it,"a86-MysteryBlock, a87-MysteryBlock, a133-YellowBlock"
-3,410.52,412.5,our perception of it,it,a88-YellowBlock
-2,413.43,414.58,so right now that's ninety grams,that,a90-YellowBlock
-1,416.76,420.03,and na that's freaking that's way,"that, that","a91-MysteryBlock, a92-RedBlock, a136-YellowBlock, a137-BlueBlock, a168-GreenBlock"
-2,420.96,423.39,that's a hundred,that,"a93-MysteryBlock, a138-YellowBlock"
-1,423.87,430.47,yeah that feels pretty pretty similar to me and try switching it left hand right hand maybe,"that, it","a94-MysteryBlock, a95-MysteryBlock, a139-YellowBlock, a140-YellowBlock"
-2,432.66,435.72,that does feel pretty similar give it a shot,"that, it","a97-MysteryBlock, a142-YellowBlock"
-3,442.68,448.16,it feels really similar and that's a hundred grams,"it, that",
-1,443.66,454.47,yeah that's a good first guess and we get two so do you think we should a consensus on that one and this is fifty,"that, that, this",a99-MysteryBlock
-2,448.91,450.5,let's do it yeah a hundred i think,it,
-1,460.26,464.28,uh yeah so should we press the blue arrow,blue,"a218-RedBlock, a233-BlueBlock"
-3,464.64,473.25,we're on this screen right now should we go onto the next one ok,this,
-1,467.91,473.25,the current weight of the last that was our first test ok,that,
-3,473.37,479.88,two attempts a hundred will it tell us if we get it right or wrong ok,"it, it",
-1,481.71,485.94,that was not quite correct ok,that,
-3,487.11,489.69,i think it's more if it's anything,"it, it","a101-YellowBlock, a102-GreenBlock"
-3,491.07,493.59,that's less right now,that,a219-BlueBlock
-2,493.72,495.42,is that less right now oh,that,
-1,495.72,498.01,oh yeah that is where we were at,that,"a104-BlueBlock, a234-RedBlock"
-2,498.5,521.25,we were at this yet ok,this,"a105-YellowBlock, a106-MysteryBlock, a107-MysteryBlock, a108-MysteryBlock, a109-MysteryBlock, a110-YellowBlock, a235-RedBlock, a148-YellowBlock, a149-YellowBlock"
-3,500.16,502.83,no that's a hundred and ten,that,
-1,505.68,511.29,the thing that sucks is that now we are finding about like torque and different other,"that, that",
-2,517.02,519.24,i still think the brown one is heavier than this,"brown, this",
-2,525.0,526.13,it's hard to balance them,"it, them",
-1,533.01,537.3,i wonder like i don't know what that one,that,"a221-MysteryBlock, a114-MysteryBlock, a115-YellowBlock, a237-YellowBlock"
-1,541.74,545.94,so i think definitely it's either,it,
-1,546.21,554.52,this or this cause we can't even make these weights so it could be above them i know but like if we are thinking it's so close to a hundred,"this, this, these, it, them, it",
-3,549.41,550.5,that could be part of it,"that, it",
-1,555.57,559.58,are probably errors within yeah within this,this,a222-YellowBlock
-2,562.08,563.41,no that doesn't do anything,that,a238-RedBlock
-2,565.59,574.71,i would say either a hundred twenty or a hundred thirty because i feel like it would be possible for it to be out of range of what we can measure but,"it, it","a223-YellwoBlock, a224-RedBlock, a117-BlueBlock, a118-YellowBlock, a239-GreenBlock"
-1,578.88,582.09,yeah it's just weird,it,"a226-MysteryBlock, a227-BlueBlock, a241-YellowBlock, a242-RedBlock"
-1,589.86,602.07,i don't know i guess i would i would vote one of these two but what do you guys think ok,these,"a249-YellowBlock, a262-MysteryBlock"
-3,603.9,608.64,it feels close i just can't tell if like,it,"a250-YellowBlock, a263-MysteryBlock"
-2,609.0,612.75,so right now this is one-twenty,this,
-2,623.43,628.02,yeah it's either one twenty or one thirty for me so i think one twenty would be the best guess,it,
-1,641.79,645.92,yeah there's it's gotta be something to do with the verticality of this but yeah we failed,"it, this",a252-YellowBlock
-1,677.16,679.14,they didn't send us the next block,they,
-1,679.23,686.61,so we ok let's see the second mystery block,mystery,
-3,689.91,690.92,it's the fibonacci series,it,
-1,694.98,697.29,that's twenty ok um,that,
-3,704.75,706.25,yeah it's the fibonacci series,it,
-1,729.69,731.79,it's f i b o,it,
-1,732.75,739.02,and then n n or n a c c i yeah i need to resee it,it,
-2,748.38,751.83,can't be like three other patterns that people can do,that,
-1,754.77,757.89,um yeah let's i think that's fine,that,
-1,760.41,771.36,it was wow ok we we got that one correct because of mister power work i don't know what i would have done at first to be honest,"it, that",
-2,760.58,764.58,yeah that was a good thought,that,
-2,752.25,774.39,yeah no i wouldn't have thought of that,that,
-1,780.15,783.54,that's why you need three minds,that,
+Utterance,Participant,Start,End,Transcript,Action_Objects,Annotation
+14,3,58.33,58.84,[it]'s right there,,[-]
+20,3,70.51,70.01,um [it]'s turned off,,[-]
+24,1,78.08,80.58,ok well [it] would be nine minus ten,"a2-RedBlock, a206-RedBlock",[-]
+26,2,80.58,84.3,[that]'s ten so then,"a3-BlueBlock, a207-BlueBlock",[-]
+27,1,86.07,87.41,just like put [it] on,,[-]
+30,3,95.19,97.17,[it] seems pretty balanced,,[-]
+31,1,97.56,102.03,yeah ok so now we know [that] [this] is also ten,"a4-BlueBlock, a208-BlueBlock",[-] [-]
+34,1,106.23,110.01,what would we maybe put [that] one on there too,"a5-PurpleBlock, a6-BlueBlock, a209-PurpleBlock",[-]
+37,2,112.16,112.92,[it]'s more,,[-]
+38,1,114.87,120.33,lets try [this] one oh gee louise [this] one,"a7-PurpleBlock, a8-YellowBlock, a9-YellowBlock, a10-GreenBlock, a210-PurpleBlock, a25-None, a26-None, a211-GreenBlock",[-] [-]
+41,2,127.35,132.0,ok so [this] one is probably twenty ten ten twenty,,[-]
+44,1,132.27,139.65,ok so now lets start at thirty alright put one of [those] on there,"a11-GreenBlock, a12-RedBlock, a13-GreenBlock, a14-PurpleBlock, a29-GreenBlock, a212-PurpleBlock",[-]
+48,2,142.91,144.92,probably thirty at [this] point,,[-]
+49,1,148.86,159.42,ok so we got ok yeah [this] one is really heavy so lets do the a [this] and a ten,"a15-PurpleBlock, a16-YellowBlock, a17-GreenBlock, a31-PurpleBlock, a33-BlueBlock",[-] [-]
+55,1,169.31,171.99,interesting so [that]'s ten twenty,,[-]
+56,1,172.56,183.58,so we said [this] ones thirty i still feel like [that]'s heavier and [this] one is twenty,,[-] [-] [-]
+57,2,174.54,185.08,yeah yeah the blue dark blue one is thirty [that]'s the larger one [it]'s slightly heavier yeah,a20-GreenBlock,[-] [-]
+58,3,185.33,187.83,we can replace one of [these] with the twenty to get,,[-]
+60,1,189.91,196.44,ok and then put [that] on [that] one,"a36-BlueBlock, a37-BlueBlock, a228-BlueBlock, a229-GreenBlock, a49-BlueBlock, a58-GreenBlock",[-] [-]
+61,2,198.15,202.14,how much is the dark blue small one ten,,
+62,1,200.31,201.37,ten [they]'re both,,[-]
+63,1,203.49,204.34,assuming [that] [this] was,,[-] [-]
+64,2,204.58,206.37,oh gosh i think i got [them] mixed up,,[-]
+65,1,207.06,210.87,yeah im thinking [that] [it]'s ten ten twenty thirty,,[-] [-]
+69,2,216.16,217.66,[it]'s just like slightly,,[-]
+71,1,228.06,231.51,and now [it] stopped being too heavy,,[-]
+72,1,231.54,233.52,so [this] is supposedly,,[-]
+73,1,234.27,239.82,thirty fourty fifty correct and [it]'s still heavier than [this] thing,,[-] [-]
+76,1,251.88,258.72,so thirty [this] is also forty right so [this] if forty yeah,"a43-PurpleBlock, a61-GreenBlock, a62-BlueBlock",[-] [-]
+77,2,254.63,255.31,ok so [that] one's twenty right,,[-]
+79,1,260.01,263.82,[this] is fifty [it]'s not,"a44-GreenBlock, a54-GreenBlock",[-] [-]
+80,1,264.93,267.36,yo [that]'s close enough ok so,,[-]
+81,3,268.08,272.58,yeah fifty so we say yellow is fifty,"a45-YellowBlock, a46-PurpleBlock, a55-YellowBlock, a56-PurpleBlock",
+83,3,274.26,280.32,and green is twenty ok so which one is blue and which one is purple,,
+85,1,275.83,277.75,i think [that]'s i think [that]'s good,,[-] [-]
+86,2,281.25,283.48,i think [this] one is purple and [this] one is blue,,[-] [-]
+87,3,282.25,286.26,ok so blue is ten and purple is,a214-BlueBlock,
+89,1,288.92,292.47,yes verify real quick but i think [it] is,"a215-PurpleBlock, a47-GreenBlock, a65-PurpleBlock, a57-None, a119-PurpleBlock, a64-RedBlock",[-]
+91,1,295.32,304.62,yeah we got [them] yeah,"a66-PurpleBlock, a67-GreenBlock, a120-PurpleBlock, a121-None, a122-RedBlock",[-]
+94,1,304.68,305.58,[that] looks good to me,,[-]
+97,1,308.28,312.3,uh blue yeah so you said purple sweet,,
+98,2,312.93,315.42,purple is thirty red is twenty yellow is fifty,,

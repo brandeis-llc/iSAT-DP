@@ -1,79 +1,30 @@
-Participant,Start,End,Transcript,keywords,Action_Objects
-2,21.5,22.25,that was awkward,that,
-3,66.41,70.8,uh they are not all weight this has more weight oh we're group four so we press enter here,"they, this",
-2,64.9,67.66,ok so the red has ten,red,"a3-YellowBlock, a123-BlueBlock, a206-RedBlock"
-3,72.21,80.64,well then no let's compare the red to the blue to see if we can get a baseline to the blue,"red, blue, blue","a4-GreenBlock, a5-GreenBlock, a124-BlueBlock, a125-BlueBlock, a207-RedBlock, a228-None, a229-BlueBlock"
-2,83.58,83.84,is it,it,
-1,85.12,86.13,once it stops,it,
-1,89.82,97.32,ok there easy so this is twenty yeah cause this is ten as long as it's not dropping it's the same,"this, this, it, it",
-2,91.67,95.35,is it ten and this was equal to this one,"it, this, this",a6-GreenBlock
-1,97.83,99.96,and then this was,this,"a7-BlueBlock, a126-GreenBlock, a208-GreenBlock, a230-Blueblock"
-1,106.05,110.84,i feel like this one is oh yeah so this is,"this, this","a9-GreenBlock, a127-PurpleBlock, a209-GreenBlock, a231-GreenBlock, a232-GreenBlock, a246-Purpleblock"
-1,116.34,118.32,so it's not,it,a234-None
-1,119.94,125.75,it doesn't drop completely yeah we can consider this to be thirty then yeah because it doesn’t drop,"it, this, it",
-2,123.5,127.41,can we yeah and it's obviously not forty,it,
-2,127.47,130.62,well it's not and it's not twenty yeah it's gotta be thirty,"it, it, it",
-3,130.65,132.5,yeah ok so that's thirty are we writing this down somewhere,"that, this",
-2,132.58,139.95,ok can we write on this paper oh well it's a good try to put in our head,"this, it","a11-PurpleBlock, a12-RedBlock, a13-BlueBlock, a128-PurpleBlock, a129-Greenblock, a210-GreenBlock, a223-None"
-2,140.61,142.31,wait that oh yeah oh ok,that,"a14-YellowBlock, a235-YellowBlock"
-3,155.04,161.79,uh so yellow we or red and blue there's no there's no ok,"yellow, red, blue",
-1,157.84,159.83,ok so we can say that this is fifty,"that, this",
-1,161.88,162.59,blue is ten,blue,
-2,164.67,167.67,weren't those both thirty or no only one of them twenty and thirty,"those, them",
-1,165.67,170.31,no this is twenty you're off the team,this,
-3,170.46,177.06,and so that would mean yellow is fifty,"yellow, that","a18-YellowBlock, a238-YellowBlock"
-3,177.87,182.61,alright we all happy with that we happy with these solutions,"that, these","a19-PurpleBlock, a131-GreenBlock, a239-None"
-1,178.83,180.41,this took someone twenty minutes,this,
-2,183.33,186.09,yellow is fifty green green is a twenty right,"yellow, green, green",
-3,184.34,187.35,blue's ten green is a twenty,"blue, green",
-1,191.46,195.96,purple is thirty forty yeah cool they're fifty,"purple, they",a21-YellowBlock
-2,199.02,199.73,so it's like that,"it, that","a23-RedBlock, a133-BlueBlock, a242-None"
-1,297.9,300.33,i'll google what it is,it,"a38-MysteryBlock, a39-RedBlock, a144-YellowBlock"
-2,302.31,306.36,this is tough this is really tough actually,"this, this","a41-MysteryBlock, a42-Mysteryblock, a146-YellowBlock, a147-YellowBlock"
-2,318.39,320.76,how are you holding them like i don't i guess i'll,them,"a48-Yellowblock, a152-MysteryBlock"
-3,373.95,380.1,we get any sort of feedback if we enter any correctly is it higher or lower or are we going to get that wrong,"it, that","a56-BlueBlock, a57-YellowBlock, a58-MysteryBlock, a160-MysteryBlock, a161-YellowBlock"
-3,391.14,394.05,so in that case we should change our strategy,that,"a64-YellowBlock, a65-YellowBlock, a66-YellowBlock, a163-MysteryBlock, a164-MysteryBlock, a165-MysteryBlock"
-3,423.94,424.5,is it though,it,"a79-YellowBlock, a172-MysteryBlock"
-1,435.24,438.21,is this the same or,this,"a80-YellowBlock, a173-MysteryBlock"
-1,446.79,450.83,i just wanted to apply this,this,"a81-MysteryBlock, a174-YellowBlock"
-1,466.26,468.24,this one feels best for me,this,"a88-YellowBlock, a179-MysteryBlock"
-2,468.63,470.61,seem i'm between that and all of them,"that, them",
-3,470.79,478.47,i thought it was closer to yellow green and like a red,"yellow, green, red, it","a89-YellowBlock, a90-PurpleBlock, a180-MysteryBlock"
-2,479.58,480.84,yeah let me feel that to,that,"a91-YellowBlock, a181-MysteryBlock"
-2,486.96,494.4,yeah no shot no shot i think this is a good way to do it actually side is kind of hard,"this, it","a93-YellowBlock, a94-MysteryBlock, a183-MysteryBlock, a184-YellowBlock"
-3,498.19,498.92,do that again,that,a96-PurpleBlock
-2,504.48,506.46,that's where i thought was pretty good,that,
-1,507.25,520.74,this one feels good this one for some reason feels weird yeah i know ok so fifties ten,"this, this",
-2,507.15,514.83,but it's hard to say it makes it look almost lighter well i mean,"it, it, it","a97-YellowBlock, a186-MysteryBlock"
-3,512.08,520.74,alright i'm ok with this so that's,"this, that",
-3,520.86,523.84,it would be fifty plus thirty so one ten,it,"a98-Yellowblock, a187-MysteryBlock"
-2,524.44,526.11,yeah this is pretty good,this,"a99-YellowBlock, a100-YellowBlock, a188-MysteryBlock, a189-Mysteryblock"
-1,527.73,532.26,moment of truth yeah that makes one twenty,that,"a102-YellowBlock, a103-Yellowblock, a191-MysteryBlock, a192-MysteryBlock"
-3,534.87,543.06,it's not quite correct think about the relationship between weights of the prior blocks and use a pattern to determine the weight of the mystery block,"mystery, it",a104-BlueBlock
-3,543.12,553.76,ten ten twenty thirty fifty so plus plus it's fibonnaci it's fucking fibonnaci,"it, it",
-2,546.55,556.14,so it's like these these two god,"it, these, these","a105-RedBlock, a106-GreenBlock, a193-BlueBlock"
-1,549.75,556.14,is it fibonacci oh my gosh,it,
-3,548.64,564.6,so ten plus ten is twenty twenty plus ten is thirty thirty plus twenty is fifty so it's eighty so i was fucking right,it,"a107-PurpleBlock, a108-YellowBlock, a109-Yellowblock, a194-GreenBlock"
-3,577.59,580.58,like ok that would be this and this right like,"that, this, this","a111-MysteryBlock, a196-Yellowblock, a219-GreenBlock"
-1,591.32,596.41,is it really i guess it was hard to tell because,"it, it","a115-GreenBlock, a116-MysteryBlock, a198-MysteryBlock, a199-GreenBlock, a221-Yellowblock"
-1,598.47,605.07,oh if we do like this we are like doing a weird balancing act we have to go right in the center of mass,this,"a117-YellowBlock, a118-YellowBlock, a119-YellowBlock, a120-Yellowblock, a200-MysteryBlock, a201-MysteryBlock, a202-MysteryBlock"
-3,605.28,610.37,ok please update the worksheet near thefind the research where you completed this portion of the task cool we've completed this portion of the task,"this, this","a121-YellowBlock, a203-GreenBlock"
-3,623.52,635.92,did not send us the second mystery block you have two oppurtunities to estimate the weight of the second block explain in one to two seconds or one to two sentences how you determined the estimate indicate the weight of the second mystery block,"mystery, mystery",
-1,635.95,639.0,it's gotta be a hundred and thirty if we are doing fibonacci,it,a249-YellowBlock
-3,643.02,644.58,but that's what they want us to think,"that, they",
-3,646.59,648.57,it could be,it,"a250-RedBlock, a251-BlueBlock"
-2,651.42,656.92,what's our sentence going to be we didn't want to follow the pattern because it was too obvious you know what i mean,it,
-3,650.7,664.02,well i um there's two ends to a pattern right there's the lower end and there's the upper end this is not specifying that the mystery block is heavier,"mystery, this, that","a252-BlueBlock, a253-GreenBlock, a254-YellowBlock, a255-YellowBlock, a256-PurpleBlock, a257-GreenBlock, a258-BlueBlock"
-3,664.32,666.48,the second mystery block could be lighter,mystery,
-3,666.81,676.26,oh no it did say that there it did say that there in scales of ten yeah ten is yeah ok oh i'm just trying to,"it, that, it, that",
-1,668.22,672.17,yeah it's gotta be heavier yeah cause,it,
-2,667.41,672.25,it can't yeah because the bottom one is ten x is zero,it,
-1,676.68,679.25,i said one thirty i feel like we can't overthink it,it,
-2,679.08,684.48,i agree one thirty because it follows fibonacci,it,
-2,696.0,699.6,oh that looks pretty good actually there might be two ns,that,
-1,702.78,704.76,i think it's f oh it's that,"it, it, that",
-1,704.97,706.02,you can also look it up,it,
-2,706.01,706.95,i think this is right yeah,this,
-3,707.4,715.44,i don't know i'm just going to leave it like that it follows fibonacci because it was eighty plus fifty yeah cool alright we happy with that,"it, that, it, it, that",
-3,718.38,726.0,it is one thirty cool alright we have completed this task,"it, this","a259-BlueBlock, a261-RedBlock"
-2,721.25,723.75,we're done with that one,that,
+Utterance,Participant,Start,End,Transcript,Action_Objects,Annotation
+4,2,21.5,22.25,[that] was awkward,,[-]
+12,3,66.41,70.8,uh [they] are not all weight [this] has more weight oh we're group four so we press enter here,,[-] [-]
+13,2,64.9,67.66,ok so the red has ten,"a3-YellowBlock, a123-BlueBlock, a206-RedBlock",
+14,3,72.21,80.64,well then no let's compare the red to the blue to see if we can get a baseline to the blue,"a4-GreenBlock, a5-GreenBlock, a124-BlueBlock, a125-BlueBlock, a207-RedBlock, a228-None, a229-BlueBlock",
+17,2,83.58,83.84,is [it],,[-]
+18,1,85.12,86.13,once [it] stops,,[-]
+19,1,89.82,97.32,ok there easy so [this] is twenty yeah cause [this] is ten as long as [it]'s not dropping [it]'s the same,,[-] [-] [-] [-]
+20,2,91.67,95.35,is [it] ten and [this] was equal to [this] one,a6-GreenBlock,[-] [-] [-]
+21,1,97.83,99.96,and then [this] was,"a7-BlueBlock, a126-GreenBlock, a208-GreenBlock, a230-Blueblock",[-]
+25,1,106.05,110.84,i feel like [this] one is oh yeah so [this] is,"a9-GreenBlock, a127-PurpleBlock, a209-GreenBlock, a231-GreenBlock, a232-GreenBlock, a246-Purpleblock",[-] [-]
+27,1,116.34,118.32,so [it]'s not,a234-None,[-]
+28,1,119.94,125.75,[it] doesn't drop completely yeah we can consider [this] to be thirty then yeah because [it] doesn’t drop,,[-] [-] [-]
+29,2,123.5,127.41,can we yeah and [it]'s obviously not forty,,[-]
+31,2,127.47,130.62,well [it]'s not and [it]'s not twenty yeah [it]'s gotta be thirty,,[-] [-] [-]
+33,3,130.65,132.5,yeah ok so [that]'s thirty are we writing [this] down somewhere,,[-] [-]
+35,2,132.58,139.95,ok can we write on [this] paper oh well [it]'s a good try to put in our head,"a11-PurpleBlock, a12-RedBlock, a13-BlueBlock, a128-PurpleBlock, a129-Greenblock, a210-GreenBlock, a223-None",[-] [-]
+37,2,140.61,142.31,wait [that] oh yeah oh ok,"a14-YellowBlock, a235-YellowBlock",[-]
+40,3,155.04,161.79,uh so yellow we or red and blue there's no there's no ok,,
+41,1,157.84,159.83,ok so we can say [that] [this] is fifty,,[-] [-]
+43,1,161.88,162.59,blue is ten,,
+45,2,164.67,167.67,weren't [those] both thirty or no only one of [them] twenty and thirty,,[-] [-]
+46,1,165.67,170.31,no [this] is twenty you're off the team,,[-]
+48,3,170.46,177.06,and so [that] would mean yellow is fifty,"a18-YellowBlock, a238-YellowBlock",[-]
+51,3,177.87,182.61,alright we all happy with [that] we happy with [these] solutions,"a19-PurpleBlock, a131-GreenBlock, a239-None",[-] [-]
+52,1,178.83,180.41,[this] took someone twenty minutes,,[-]
+54,2,183.33,186.09,yellow is fifty green green is a twenty right,,
+55,3,184.34,187.35,blue's ten green is a twenty,,
+58,1,191.46,195.96,purple is thirty forty yeah cool [they]'re fifty,a21-YellowBlock,[-]
+60,2,199.02,199.73,so [it]'s like [that],"a23-RedBlock, a133-BlueBlock, a242-None",[-] [-]
