@@ -1,9 +1,7 @@
 import re
 from typing import List, Tuple
-from pathlib import Path
 from attrs import define, field
 
-DATA_FOLDER = Path(__file__).parent.joinpath("data")
 
 BLOCK_NAME = {"red", "yellow", "green", "blue", "purple", "brown", "mystery"}
 PRONOUNS = {

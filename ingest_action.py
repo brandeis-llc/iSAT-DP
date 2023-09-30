@@ -1,6 +1,7 @@
 import xml.etree.ElementTree as ET
 from typing import List
-from data import Action, ActionComponent, DATA_FOLDER
+from data import Action, ActionComponent
+from file_path import DATA_FOLDER
 
 
 def ingest_action_xml(group_id: int) -> List[Action]:

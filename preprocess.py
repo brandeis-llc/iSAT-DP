@@ -1,6 +1,7 @@
 from typing import List
 
-from data import Dialogue, Utterance, Action, DATA_FOLDER
+from data import Dialogue, Utterance, Action
+from file_path import DATA_FOLDER
 from ingest_action import ingest_action_xml
 from ingest_dialogue import ingest_dialogue
 import pandas as pd

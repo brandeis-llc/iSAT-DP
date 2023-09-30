@@ -1,7 +1,8 @@
 import os
 from typing import Union
 import pandas as pd
-from data import Utterance, Dialogue, DATA_FOLDER
+from data import Utterance, Dialogue
+from file_path import DATA_FOLDER
 
 BLOCK_NAME = {"red", "yellow", "green", "blue", "purple", "brown", "mystery"}
 PRONOUNS = {
