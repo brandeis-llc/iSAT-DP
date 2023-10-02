@@ -1,0 +1,30 @@
+Utterance,Participant,Start,End,Transcript,Action_Objects,Annotation
+4,2,21.5,22.25,[that] was awkward,,[-]
+12,3,66.41,70.8,uh [they] are not all weight [this] has more weight oh we're group four so we press enter here,,[rbgpy] [y]
+13,2,64.9,67.66,ok so the red has ten,"a3-YellowBlock, a123-BlueBlock, a206-RedBlock",
+14,3,72.21,80.64,well then no let's compare the red to the blue to see if we can get a baseline to the blue,"a4-GreenBlock, a5-GreenBlock, a124-BlueBlock, a125-BlueBlock, a207-RedBlock, a228-None, a229-BlueBlock",
+17,2,83.58,83.84,is [it],,[-]
+18,1,85.12,86.13,once [it] stops,,[-]
+19,1,89.82,97.32,ok there easy so [this] is twenty yeah cause [this] is ten as long as [it]'s not dropping [it]'s the same,,[g] [r] [-] [rb]
+20,2,91.67,95.35,is [it] ten and [this] was equal to [this] one,a6-GreenBlock,[b] [g] [rb]
+21,1,97.83,99.96,and then [this] was,"a7-BlueBlock, a126-GreenBlock, a208-GreenBlock, a230-Blueblock",[g]
+25,1,106.05,110.84,i feel like [this] one is oh yeah so [this] is,"a9-GreenBlock, a127-PurpleBlock, a209-GreenBlock, a231-GreenBlock, a232-GreenBlock, a246-Purpleblock",[p] [-]
+27,1,116.34,118.32,so [it]'s not,a234-None,[-]
+28,1,119.94,125.75,[it] doesn't drop completely yeah we can consider [this] to be thirty then yeah because [it] doesn't drop,,[-] [p] [-]
+29,2,123.5,127.41,can we yeah and [it]'s obviously not forty,,[p]
+31,2,127.47,130.62,well [it]'s not and [it]'s not twenty yeah [it]'s gotta be thirty,,[p] [p] [p]
+33,3,130.65,132.5,yeah ok so [that]'s thirty are we writing [this] down somewhere,,[p] [-]
+35,2,132.58,139.95,ok can we write on [this] paper oh well [it]'s a good try to put in our head,"a11-PurpleBlock, a12-RedBlock, a13-BlueBlock, a128-PurpleBlock, a129-Greenblock, a210-GreenBlock, a223-None",[-] [-]
+37,2,140.61,142.31,wait [that] oh yeah oh ok,"a14-YellowBlock, a235-YellowBlock",[y]
+40,3,155.04,161.79,uh so yellow we or red and blue there's no there's no ok,,
+41,1,157.84,159.83,ok so we can say [that] [this] is fifty,,[-] [y]
+43,1,161.88,162.59,blue is ten,,
+45,2,164.67,167.67,weren't [those] both thirty or no only one of [them] twenty and thirty,,[pg] [pg]
+46,1,165.67,170.31,no [this] is twenty you're off the team,,[g]
+48,3,170.46,177.06,and so [that] would mean yellow is fifty,"a18-YellowBlock, a238-YellowBlock",[-]
+51,3,177.87,182.61,alright we all happy with [that] we happy with [these] solutions,"a19-PurpleBlock, a131-GreenBlock, a239-None",[-] [-]
+52,1,178.83,180.41,[this] took someone twenty minutes,,[-]
+54,2,183.33,186.09,yellow is fifty green green is a twenty right,,
+55,3,184.34,187.35,blue's ten green is a twenty,,
+58,1,191.46,195.96,purple is thirty forty yeah cool [they]'re fifty,a21-YellowBlock,[gp]
+60,2,199.02,199.73,so [it]'s like [that],"a23-RedBlock, a133-BlueBlock, a242-None",[-] [-]

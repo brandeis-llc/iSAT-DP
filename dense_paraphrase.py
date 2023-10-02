@@ -87,12 +87,8 @@ if __name__ == "__main__":
                     f"dped_a{ann_i}/Group_{str(group_i).zfill(2)}_DPed_AG.csv"
                 )
 
-            else:
-                in_csv_file_path = DATA_FOLDER.joinpath(
-                    f"annotated_a{ann_i}/Group_{str(group_i).zfill(2)}_DP_CM.csv"
-                )
-                out_csv_file_path = DATA_FOLDER.joinpath(
-                    f"dped_a{ann_i}/Group_{str(group_i).zfill(2)}_DPed_CM.csv"
-                )
+    for file_path in DATA_FOLDER.joinpath("annotated_adjudicated").iterdir():
+        group_number = file_path.stem.split("_")[1]
+        dump_annotation2csv(file_path, int(group_number), DATA_FOLDER.joinpath(f"dped_adjudicated/Group_{group_number}_DPed.csv"))
 
-            dump_annotation2csv(in_csv_file_path, group_i, out_csv_file_path)
+
