@@ -8,7 +8,7 @@ Utterance,Participant,Start,End,Transcript,Action_Objects,Annotation
 31,3,124.62,128.1,oh [that]'s the heaviest,"a5-PurpleBlock, a129-PurpleBlock",[p]
 32,2,128.79,132.21,oh [this] seems to heavy,"a6-YellowBlock, a7-YellowBlock, a130-YellowBlock, a131-YellowBlock",[y]
 35,1,136.77,138.84,think [it] should be,,[g]
-36,3,139.86,143.4,yeah [they] should be twenty as well. uhh,,[g]
+36,3,139.86,143.4,yeah [they] should be twenty as well. uhh,,[rb]
 37,3,146.01,150.63,okay. should i put [this] as twenty,,[g]
 38,1,146.01,150.63,yeah. green,"a9-GreenBlock, a133-GreenBlock",
 40,1,151.56,154.59,now [it]'s forty,,[rbg]
@@ -22,7 +22,7 @@ Utterance,Participant,Start,End,Transcript,Action_Objects,Annotation
 65,3,236.79,245.64,fifty. oh purple is thirty. uh yellow,,
 67,1,236.79,245.64,i'm sorry. [it] purple is thirty,a23-RedBlock,[p]
 68,1,245.73,252.27,do you want to put ten. [it] is,,[b]
-70,2,245.73,252.27,should i. so [this] seem [it]'s little more. yeah so should i put something here,"a93-BlueBlock, a140-BlueBlock",[gp] [gp]
+70,2,245.73,252.27,should i. so [this] seem [it]'s little more. yeah so should i put something here,"a93-BlueBlock, a140-BlueBlock",[gp] [-]
 71,3,252.63,254.61,we can try [it] yeah,,[-]
 75,2,260.25,262.26,but then [that]'ll even [this] is,a141-None,[-] [r]
 76,2,263.19,265.17,[this] is ten ok we know [that] [this] is ten,,[r] [-] [r]
@@ -31,7 +31,7 @@ Utterance,Participant,Start,End,Transcript,Action_Objects,Annotation
 79,1,265.29,274.92,now [it]'s completely now,a24-RedBlock,[-]
 80,3,275.4,277.95,and you mean like [this],"a25-BlueBlock, a94-GreenBlock, a142-BlueBlock",[-]
 81,2,279,281.34,so [this] is thirty oops sorry,,[p]
-87,1,300.93,311.13,[it]'s okay or we should just us scale [it] with [this] one,"a26-PurpleBlock, a27-RedBlock, a143-PurpleBlock",[-] [-] [g]
+87,1,300.93,311.13,[it]'s okay or we should just us scale [it] with [this] one,"a26-PurpleBlock, a27-RedBlock, a143-PurpleBlock",[-] [-] [-]
 89,1,311.91,316.5,[it]'s [it]'s two gram i think,,[-] [-]
 90,1,317.25,320.4,[it] has until five but,,[-]
 92,2,323.19,329.25,what does [this] do,,[-]

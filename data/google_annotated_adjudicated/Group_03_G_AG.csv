@@ -20,25 +20,25 @@ Utterance,Participant,Start,End,Transcript,Action_Objects,Annotation
 42,2,264.21,268.29,green and [this] one,,[p]
 43,3,264.21,268.29,green is twenty right,,
 44,3,268.35,272.58,green is twenty and purple is thirty so [it] weighs to fifty,,[y]
-45,1,274.95,277.05,[it] seems to be,,[y]
+45,1,274.95,277.05,[it] seems to be,,[-]
 46,2,277.53,281.43,yeah i mentioned here green is twenty,,
 47,1,277.53,281.43,[it]'s leaning more to the side,,[-]
 48,2,285.18,287.82,[it]'s leaning more to the side,,[-]
 49,3,288.93,294.3,so how about yellow,"a23-GreenBlock, a62-RedBlock",
-51,2,295.29,300.96,then green is twenty and [they] weigh,"a63-RedBlock, a64-BlueBlock, a81-RedBlock, a97-None",[rb]
+51,2,295.29,300.96,then green is twenty and [they] weigh,"a63-RedBlock, a64-BlueBlock, a81-RedBlock, a97-None",[-]
 53,1,305.46,310.8,wait purple is how much,,
 54,3,305.46,310.8,purple is thirty,,
 55,1,314.1,317.43,and green is,,
 56,3,314.1,317.43,yellow is not ten,,
 58,1,326.85,330.69,have we tried [these] two and the green one cause [it]'s,a24-GreenBlock,[rb] [-]
-60,1,336.06,341.55,nope [that]'s too light ok too light,,[rbg]
-61,3,336.06,341.55,no so when we try [these] both,"a27-BlueBlock, a67-PurpleBlock, a99-PurpleBlock",[gp]
-62,1,344.01,348.36,[that] is equivalent to the,"a28-RedBlock, a100-RedBlock",[gpy]
+60,1,336.06,341.55,nope [that]'s too light ok too light,,[-]
+61,3,336.06,341.55,no so when we try [these] both,"a27-BlueBlock, a67-PurpleBlock, a99-PurpleBlock",[-]
+62,1,344.01,348.36,[that] is equivalent to the,"a28-RedBlock, a100-RedBlock",[-]
 64,3,356.19,359.46,[this] has thirty and twenty,a29-RedBlock,[gp]
 65,3,359.91,362.94,yeah green is twenty and purple is thirty,,
 66,2,366.06,371.16,[it]'s for sure not thirty,a68-RedBlock,[y]
 67,1,371.49,378.24,so if you put the purple just to verify all of our weights are correct,"a30-PurpleBlock, a69-GreenBlock, a70-BlueBlock, a71-None",
-69,1,396.69,404.73,[it] must be [this] right because comparing [it] to forty [it]'s,,[y] [-] [y] [y]
+69,1,396.69,404.73,[it] must be [this] right because comparing [it] to forty [it]'s,,[y] [rbp] [y] [y]
 72,1,405.48,407.64,not [that] heavy,,[-]
 74,1,413.94,415.92,try [it],"a31-YellowBlock, a32-GreenBlock",[-]
 75,3,427.92,430.44,twenty green yeah,a37-GreenBlock,
