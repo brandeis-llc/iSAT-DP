@@ -11,13 +11,23 @@ def process_annotation(annotation_str: str):
     return comps
 
 
-def get_iaa():
+def get_iaa(data_type: str):
     iaa_dict = dict()
     all_anns1 = []
     all_anns2 = []
     for group_i in range(1, 11):
-        a1_file_path = DATA_FOLDER.joinpath(f"annotated_a1/Group_{str(group_i).zfill(2)}_DP_AG.csv")
-        a2_file_path = DATA_FOLDER.joinpath(f"annotated_a2/Group_{str(group_i).zfill(2)}_DP_CM.csv")
+        if data_type == "oracle":
+            a1_file_path = DATA_FOLDER.joinpath(f"annotated_a1/Group_{str(group_i).zfill(2)}_DP_AG.csv")
+            a2_file_path = DATA_FOLDER.joinpath(f"annotated_a2/Group_{str(group_i).zfill(2)}_DP_CM.csv")
+        elif data_type == "google":
+            a1_file_path = DATA_FOLDER.joinpath(f"google_annotated_a1/Group_{str(group_i).zfill(2)}_G_AG.csv")
+            a2_file_path = DATA_FOLDER.joinpath(f"google_annotated_a2/Group_{str(group_i).zfill(2)}_G_CM.csv")
+        elif data_type == "whisper":
+            a1_file_path = DATA_FOLDER.joinpath(f"whisper_annotated_a1/Group_{str(group_i).zfill(2)}_W_AG.csv")
+            a2_file_path = DATA_FOLDER.joinpath(f"whisper_annotated_a2/Group_{str(group_i).zfill(2)}_W_CM.csv")
+        else:
+            raise ValueError(f"Unknown data type: {data_type}")
+
         ann_lst1 = load_annotation_csv(a1_file_path)
         ann_lst2 = load_annotation_csv(a2_file_path)
         anns1 = []
@@ -36,17 +46,37 @@ def get_iaa():
     return iaa_dict
 
 
-def get_f1_with_gold(ann_id: int):
+def get_f1_with_gold(data_type: str, ann_id: int):
     f1_dict = dict()
 
     all_anns1 = []
     all_anns2 = []
     for group_i in range(1, 11):
-        if ann_id == 1:
-            ann_file_path = DATA_FOLDER.joinpath(f"annotated_a{ann_id}/Group_{str(group_i).zfill(2)}_DP_AG.csv")
+        if data_type == "oracle":
+            if ann_id == 1:
+                ann_file_path = DATA_FOLDER.joinpath(f"annotated_a{ann_id}/Group_{str(group_i).zfill(2)}_DP_AG.csv")
+            else:
+                ann_file_path = DATA_FOLDER.joinpath(f"annotated_a{ann_id}/Group_{str(group_i).zfill(2)}_DP_CM.csv")
+            gold_file_path = DATA_FOLDER.joinpath(f"annotated_adjudicated/Group_{str(group_i).zfill(2)}_DP.csv")
+        elif data_type == "google":
+            if ann_id == 1:
+                ann_file_path = DATA_FOLDER.joinpath(
+                    f"google_annotated_a{ann_id}/Group_{str(group_i).zfill(2)}_G_AG.csv")
+            else:
+                ann_file_path = DATA_FOLDER.joinpath(
+                    f"google_annotated_a{ann_id}/Group_{str(group_i).zfill(2)}_G_CM.csv")
+            gold_file_path = DATA_FOLDER.joinpath(f"google_annotated_adjudicated/Group_{str(group_i).zfill(2)}_G.csv")
+        elif data_type == "whisper":
+            if ann_id == 1:
+                ann_file_path = DATA_FOLDER.joinpath(
+                    f"whisper_annotated_a{ann_id}/Group_{str(group_i).zfill(2)}_W_AG.csv")
+            else:
+                ann_file_path = DATA_FOLDER.joinpath(
+                    f"whisper_annotated_a{ann_id}/Group_{str(group_i).zfill(2)}_W_CM.csv")
+            gold_file_path = DATA_FOLDER.joinpath(f"whisper_annotated_adjudicated/Group_{str(group_i).zfill(2)}_W.csv")
         else:
-            ann_file_path = DATA_FOLDER.joinpath(f"annotated_a{ann_id}/Group_{str(group_i).zfill(2)}_DP_CM.csv")
-        gold_file_path = DATA_FOLDER.joinpath(f"annotated_adjudicated/Group_{str(group_i).zfill(2)}_DP.csv")
+            raise ValueError(f"Unknown data type: {data_type}")
+
         ann_lst = load_annotation_csv(ann_file_path)
         gold_lst = load_annotation_csv(gold_file_path)
         anns1 = []
@@ -65,11 +95,11 @@ def get_f1_with_gold(ann_id: int):
     return f1_dict
 
 
-def iaa2csv(out_csv_file: str):
+def iaa2csv(data_type: str, out_csv_file: str):
     rows = []
-    iaa = get_iaa()
-    f1_a1 = get_f1_with_gold(1)
-    f1_a2 = get_f1_with_gold(2)
+    iaa = get_iaa(data_type)
+    f1_a1 = get_f1_with_gold(data_type, 1)
+    f1_a2 = get_f1_with_gold(data_type, 2)
     rows.append([round(i, 3) for i in iaa.values()])
     rows.append([round(f * 100, 2) for f in f1_a1.values()])
     rows.append([round(f * 100, 2) for f in f1_a2.values()])
@@ -80,4 +110,6 @@ def iaa2csv(out_csv_file: str):
 
 
 if __name__ == "__main__":
-    iaa2csv("data/IAA.csv")
+    iaa2csv("google", "data/IAA_on_google.csv")
+    iaa2csv("whisper", "data/IAA_on_whisper.csv")
+
