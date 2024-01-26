@@ -1,0 +1,47 @@
+Utterance,Participant,Start,End,Transcript,Action_Objects,Annotation
+9,1,61.23,66,i guess if [this] red one's ten grams,,[r]
+10,2,61.23,66,we got red ten,"a1-RedBlock, a2-BlueBlock, a177-RedBlock, a178-BlueBlock",
+11,1,72.45,76.17,seems like [it] might be about the same,,[rb]
+12,3,80.52,85.29,i would agree so [this] one's ten,"a3-BlueBlock, a179-BlueBlock",[b]
+16,2,97.44,99.78,[this] is a sensitive scale,,[-]
+17,1,102.3,104.28,[that]'s looking pretty even,,[rgb]
+20,2,109.44,113.19,probably [that] big sucker,,[y]
+21,1,109.44,113.19,so [this] one is noticeably heavier than,"a11-GreenBlock, a184-None, a185-GreenBlock",[y]
+22,1,113.94,115.95,the purple ish one,,
+23,1,116.79,125.37,making sure [that] [it] didn't have the weight at the bottom,,[-] [p]
+24,2,116.79,125.37,[it]'s just different at the bottom [that]'s a so [that]'s a ten and a twenty right now right [that]'s looking,"a12-PurpleBlock, a186-GreenBlock",[p] [rg] [rg] [rgb]
+27,2,127.62,131.76,their increments of ten i would say [that]'s probably,,[rgbpy]
+28,1,131.79,135.96,yeah [it] looks a little,,[-]
+29,2,131.79,135.96,cause [that]'s also a twenty let's double check [that] [that]'s not also a twenty,,[g] [-] [p]
+30,2,136.44,141.09,cause [it] um just [that] one there,,[-] [g]
+31,3,136.44,141.09,is [this] one a twenty,"a13-BlueBlock, a14-RedBlock, a126-GreenBlock, a163-RedBlock",[b]
+32,2,141.18,146.85,ok so [it]'s more than twenty but [it] almost seems like the thirty takes [it] past but,"a15-BlueBlock, a16-GreenBlock, a127-RedBlock, a128-RedBlock, a164-None",[p] [-] [-]
+33,2,148.2,150.18,[it]'s so sensitive,,[-]
+34,2,154.32,162.57,if [they]'re only in increments of ten [it] has to be,,[rbgpy [p]
+35,1,154.32,162.57,i think yeah [it] has to be thirty [it],,[p [-]
+36,3,154.32,162.57,i think [it] could also be the position,a17-RedBlock,[-]
+37,2,162.84,171.21,so big blue is probably thirty,,
+39,1,162.84,171.21,so i would guess the yellow one is gonna be,"a18-PurpleBlock, a129-PurpleBlock",
+44,3,186.24,190.92,yeah [that]'s considerably heavier so [this] one did we say [this] was thirty,a23-PurpleBlock,[y] [p] [p]
+45,3,191.01,195.21,and [this] was ten,,[b]
+46,2,191.01,195.21,yeah [that]'s thirty green is twenty,"a24-BlueBlock, a25-RedBlock",[p]
+47,3,195.24,199.41,[it]'s definitely not thirty so [it] has to,,[y] [y]
+48,2,195.24,199.41,red and small blue are both ten,"a26-RedBlock, a27-PurpleBlock, a189-PurpleBlock",
+49,3,201.21,203.97,but [it]'s too heavy,,[y]
+51,1,205.44,211.5,[this] is fifty on here so then,,[gp]
+52,2,205.44,211.5,yeah green and big blue,,
+53,1,211.56,222.66,big blue,,
+54,3,211.56,222.66,did we try forty we did try forty because [this] one's thirty and then [this] one's or [this] one's twenty,,[p] [g] [g]
+55,2,211.56,222.66,unless she's messing with us and some of [these] are in increments of five,"a28-PurpleBlock, a29-BlueBlock, a130-GreenBlock, a165-BlueBlock, a190-PurpleBlock",[rbgpy]
+56,1,223.5,226.56,bib blue was forty,,
+57,2,223.5,226.56,so [that] should be forty right there,"a30-RedBlock, a191-RedBlock",[pb]
+58,1,237.36,243.39,i would say [that] [it] is at least closest to fifty,,[-] [y]
+59,2,237.36,243.39,i would say yellow is like forty five but we could say fifty since we're,,
+60,2,243.57,246.33,forced with [these],"a31-YellowBlock, a192-YellowBlock",[rbgp]
+66,1,268.74,271.38,yellow is fifty,,
+67,2,273.39,279.48,green's twenty big blue's thirty,,
+68,3,273.39,279.48,yeah i guess [that] one's,,[p]
+69,2,280.11,286.44,oh [that]'s purple you're right,,[p]
+70,3,280.11,286.44,i think [that] one's purple so blue was ten and purple was thirty,,[p]
+72,3,291.99,299.55,so red was ten yellow was fifty we're great,,
+73,2,291.99,299.55,we got [it] right good job team,,[-]

@@ -1,0 +1,53 @@
+Utterance,Participant,Start,End,Transcript,Action_Objects,Annotation
+4,3,23.58,35.19,can we write [that] down,,[-]
+14,1,59.73,64.62,alright we see we serve [it] on the end over there ok so we know [this] is ten grams,a1-RedBlock,[-] [r]
+15,2,65.43,74.13,so we know [this] is ten set [it] there for privacy,,[r] [r]
+16,1,65.43,74.13,so you hold [that] at the end of the scale yeah [it] goes here ok,"a2-RedBlock, a3-RedBlock",[r] [-]
+19,1,74.85,84.57,what's [this] one ok so ok so we know [that] [that] one's heavier so ok [this] one looks relatively the same size so should we see,,[g] [-] [g] [b]
+20,3,74.85,84.57,[it]'ve heavy yep,"a4-GreenBlock, a5-BlueBlock, a6-GreenBlock, a7-BlueBlock, a137-GreenBloc, a138-GreenBlock, a139-BlueBlock",[g]
+21,1,85.05,88.62,so we could put [that] there,"a8-RedBlock, a140-RedBlock",[b]
+23,1,92.25,95.19,i'd say [that]'s basically the same because [it]'s teetering,,[rb] [-]
+24,3,95.79,99,yeah if [that]'s what we're going off of,,[-]
+25,1,99.78,101.76,yeah because [it] continue right,,[-]
+26,2,105.42,112.17,so [these] are both ten,,[rb]
+27,1,105.42,112.17,ok so yeah [that] scale so [these] are both ten,,[-] [rb]
+28,3,105.42,112.17,yeah [it]'s an amazon scale we're fine correct,,[-]
+29,1,112.62,119.55,ok so what if if i had [that] is [it] one of [those] [that] one,"a9-RedBlock, a10-GreenBlock, a161-GreenBlock",[rb] [-] [gpy] [g]
+30,1,129.66,132.99,yeah yeah i think [that]'s fine,,[-]
+31,2,129.66,132.99,so [that] one's twenty,,[g]
+32,2,133.23,136.65,so [these] are both ten in theory ten ten twenty,,[rb]
+34,2,137.25,147.84,yeah so we know the blue is ten,,
+35,1,137.25,147.84,well no red is given to you [that]'s why you don't need well [this] is blue [that]'s purple ok,,[-] [b] [p]
+36,3,137.25,147.84,so we have there is no red,"a11-RedBlock, a141-None, a162-BlueBlock, a241-PurpleBlock",
+37,2,147.96,154.32,the green is twenty,,
+38,3,147.96,154.32,so the green we think is twenty ok so let's see we can use our hands as well,"a12-GreenBlock, a13-PurpleBlock, a142-GreenBlock",
+39,1,154.47,159.75,[this] is heavier than [this] one so [this] is twenty [this] is heavier than [this] one,"a14-PurpleBlock, a143-GreenBlock, a163-GreenBlock, a164-YellowBlock",[p] [g] [g] [p] [g]
+41,2,160.38,163.86,[this] is definitely the heaviest,,[y]
+42,1,160.38,163.86,ok let's try purple,"a15-YellowBlock, a16-PurpleBlock, a144-PurpleBlock",
+43,2,164.07,170.07,[it]'s greater than twenty,,[p]
+44,1,164.07,170.07,ok so [that]'s heavier ok ok so greather than twenty,,[p]
+46,1,170.1,173.94,right what if we put ten on [that],,[g]
+47,2,170.1,173.94,so i can put one one and see if [it]'s thirty,"a17-RedBlock, a145-RedBlock",[p]
+48,1,174.48,183.63,what if i do [this] ok so less than forty likely thirty ok,,[-]
+49,2,174.48,183.63,teeter teeter we know [it]'s less than forty and greater than twenty so [it]'s likely thirty we don't have any other options [it] [it]'s gonna be thirty,"a18-BlueBlock, a19-BlueBlock, a146-BlueBlock, a165-BlueBlock",[p] [p] [p] [p]
+50,3,184.5,187.23,purple's thirty,,
+51,1,184.5,187.23,yeah ok so we think purple's thirty,,
+52,2,187.35,199.23,and then [this] one obviously is is um purple and yellow [this] one's yeah [it]'s [it]'s a lot more definitely ok so [it]'s [it]'s more than thirty wait so [this] one's thirty,,[y] [y] [y] [y] [y] [y] [p]
+53,1,187.35,199.23,ok and then so if i take [this] one off yeah thirty put [that]'s going to be heavier more a thirty plus twenty,"a20-PurpleBlock, a21-RedBlock, a22-RedBlock, a23-GreenBlock, a147-PurpleBlock, a148-YellowBlock, a149-GreenBlock, a166-GreenBlock, a242-YellowBlock",[rg] [y]
+56,1,205.77,218.67,[this] looks almost a little bit heavier but [it] is [it]'s close enough so fifty is not an option yeah definitely let's put sixty,,[gp] [gp] [gp]
+57,3,205.77,218.67,yeah i'd make [it] a five if we had a five option,,[y]
+58,2,205.77,218.67,yeah so i think fifty because [this] is fifty right definitely less than sixty,"a24-RedBlock, a25-RedBlock, a150-RedBlock, a151-RedBlock",[y]
+59,2,218.73,229.77,and [this] is thirty right and [this] is ten so [that] would be forty so [it]'s more than forty and less than sixty so [it]'s gotta be fifty,,[p] [r] [rp] [y] [y]
+60,1,218.73,229.77,less than sixty [it]'s gotta be fifty yeah so ok if we filled [this] out,,[y] [-]
+61,3,218.73,229.77,yellow fifty,"a26-GreenBlock, a27-RedBlock, a28-RedBlock, a29-GreenBlock, a152-GreenBlock, a153-GreenBlock",
+65,1,233.58,236.64,i think [this] is fifty and [this] is thirty,,[y] [p]
+66,2,233.58,236.64,i think [that]'s fifty,"a31-YellowBlock, a32-PurpleBlock, a155-YellowBlock, a156-PurpleBlock",[y]
+67,1,236.79,241.5,and then here let's confirm [this] a little [this] here,"a33-PurpleBlock, a34-GreenBlock, a157-PurpleBlock, a167-RedBlock",[-] [p]
+68,2,242.34,246.57,and [that] one's thirty thirty,,[p]
+69,1,242.34,246.57,yeah let's go thirty ok so [that]'s thirty,"a35-Purpleblock, a158-None, a159-Purpleblock",[p]
+70,1,246.78,248.76,and then like [this],"a36-GreenBlock, a160-None, a168-RedBlock",[-]
+71,2,249.72,253.59,i mean i don't i don't think we need to confirm [this] but we just do [that] one so i think we're,,[-] [-]
+72,1,249.72,253.59,yeah [that]'s fine,,[-]
+74,3,256.2,259.92,yes should i click through [it],,[-]
+76,1,256.2,259.92,yes yeah do you want us to fill [it] out,,[-]
+80,3,270.27,287.13,green was twenty yep nice,a37-MysteryBlock,

@@ -1,0 +1,52 @@
+Utterance,Participant,Start,End,Transcript,Action_Objects,Annotation
+14,1,73.1,81.1,"alright, so, shall we compare things to [this] one?",,[r]
+15,1,81.1,88.1,mhh. so you think [they]'re the same weight or?,"a2-RedBlock, a88-RedBlock",[rb]
+16,1,88.1,116.1,still teetering. i think [they]'re,,[rb]
+17,2,88.1,116.1,i think [they] are the same weight,"a3-BlueBlock, a4-YellowBlock, a51-GreenBlock, a89-BlueBlock",[rb]
+19,3,145.1,165.1,so i should indicate [it],"a8-BlueBlock, a9-RedBlock, a10-YellowBlock, a11-YellowBlock, a12-RedBlock, a13-BlueBlock, a53-BlueBlock, a54-PurpleBlock, a90-YellowBlock",[b]
+21,3,165.1,166.1,[it] as 10,,[b]
+23,1,166.1,186.1,the suspense is killing me. i can't take [this] forever. sufficient,"a14-GreenBlock, a15-PurpleBlock, a55-YellowBlock, a91-GreenBlock",[-]
+24,2,186.1,212.1,yes [that]'s probably 20,,[g]
+25,1,186.1,212.1,to say [that] one's probably 20?,,[g]
+27,3,212.1,216.1,"so, green one is twenty",,
+32,1,220.1,221.1,i think [that]'s a good guess.,,[-]
+33,3,220.1,221.1,"the purple is 30, yeah.",,
+34,2,220.1,221.1,is thirty so. so the purple one is thirty. which is blue and which is purple.,,
+35,1,221.1,222.1,i think [this] is,,[p]
+36,3,221.1,222.1,"what, [that]? purple",,[p]
+37,1,222.1,223.1,"is more purple-y. yeah, um, okay so [this] one feels just a smidge heavier, i think. yeah, um",,[y]
+38,3,222.1,223.1,"[this] is blue, maybe?",,[b]
+40,1,224.1,225.1,"so, try [that] one",a16-PurpleBlock,[g]
+42,3,244.1,245.1,oh yeah green is 20,,
+43,2,245.1,246.1,the green and [this] purple,,[p]
+44,3,245.1,246.1,green is 20 and purple is 30 so [it] weights to 50,,[y]
+45,1,245.1,246.1,[it] seems to be.,a18-BlueBlock,[y]
+46,2,246.1,247.1,"oh, [it]'s leaning more [this] side so",,[-] [-]
+47,3,246.1,247.1,"yeah, i mentioned you're green as 20.",,
+48,2,247.1,260.1,[it]'s leaning more [this] side,"a19-BlueBlock, a20-PurpleBlock, a21-GreenBlock, a58-YellowBlock, a59-PurpleBlock, a95-YellowBlock",[-] [-]
+51,3,260.1,261.1,"so, what about yellow? okay.","a60-RedBlock, a61-PurpleBlock",
+53,2,262.1,263.1,then green is twenty anyways.,,
+54,3,262.1,263.1,[these].,"a22-GreenBlock, a96-GreenBlock",[rb]
+58,3,266.1,277.1,"purple was 30. yellow is of course not 10, but. okay.",,
+59,1,266.1,277.1,"wait, purple was, how much? purple was 30. and green is 20. [it]'s. can we try",,[-]
+60,1,277.1,283.1,[these] two and the green one because [it]'s still kinda dipping,,[rb] [-]
+61,2,277.1,283.1,green,,
+65,1,283.1,290.1,no [that]'s too li-,,[rbg]
+70,3,297.1,298.1,when we try [these] both,a23-GreenBlock,[gp]
+71,2,298.1,299.1,mhh [this] is 30 and 20?,,[gp]
+72,3,298.1,299.1,"so i feel yellow is 50. mhh, yeah. gre-",,
+73,1,298.1,299.1,so [it] should be different than the,"a64-BlueBlock, a81-RedBlock",[-]
+74,3,299.1,300.1,en is 20 and purple is 30.,,
+75,2,299.1,300.1,[it]'s for sure not 30.,a97-None,[y]
+78,1,301.1,302.1,so if you put the purple and just to verify [that] all our rates are all our weights are correct is [that] ugh mhh,,[-] [-]
+79,1,302.1,304.1,[it] must be [this],,[y] [-]
+86,1,337.1,338.1,[it] to to fourty [it]'s,,[y] [y]
+88,1,338.1,339.1,"yeah, not [that] heavy. so, are we done? oh well, just to put [these] in the",,[-] [-]
+89,3,338.1,339.1,[this] is,a27-BlueBlock,[g]
+94,3,341.1,360.1,green yea,"a28-RedBlock, a29-RedBlock, a67-PurpleBlock, a99-PurpleBlock, a100-RedBlock, a101-RedBlock",
+95,2,360.1,371.1,[this] is thirty,a68-RedBlock,[p]
+98,3,372.1,388.1,and [this] is 50,"a30-PurpleBlock, a69-GreenBlock, a70-BlueBlock, a71-None",[y]
+99,1,388.1,396.2,yellow is 50.,,
+113,3,427.2,428.2,ugh just till fif- i just till did [that] till fif,a37-GreenBlock,[-]
+114,3,428.2,429.2,ty so should i submit [it],,[-]
+117,3,430.2,431.2,"red is 10, blue is 10. green is 20, purple is 30, and yellow is 50. yeah, we are good",a38-PurpleBlock,

@@ -1,0 +1,50 @@
+Utterance,Participant,Start,End,Transcript,Action_Objects,Annotation
+12,2,59,80.13,we got a red ten,,
+13,1,59,80.13,"right, so i guess if [this] red one's 10 grams. let's see, seems like [that] might be about the same.","a1-RedBlock, a2-BlueBlock, a177-RedBlock, a178-BlueBlock",[r] [rb]
+16,3,83.07,84.07,[this] ones ten,"a3-BlueBlock, a179-BlueBlock",[b]
+24,2,95.07,113.07,[this] is a sensitive scale. [that]'s looking kinda even. try [that] big sucker.,,[-] [rbg] [y]
+25,1,95.07,113.07,looks like about twenty. so [this] one is noticeably heavier then.,"a8-GreenBlock, a9-RedBlock, a10-RedBlock, a11-GreenBlock, a125-BlueBlock, a183-GreenBlock, a184-None, a185-GreenBlock",[y]
+26,2,113.07,119.17,she has stuff written on the bottom. [that]'s the,,[rg]
+27,1,113.07,119.17,the purple-ish one.,"a12-PurpleBlock, a186-GreenBlock",
+28,1,119.17,121.07,making sure [that] [it] didn't have the weight on the bottom.,,[-] [p]
+31,2,121.07,124.07,"so [that]'s a 10 and a 20 right now, right?",,[rg]
+32,2,124.07,125.07,[that]'s looking,,[rbg]
+33,2,126.07,130.07,"[they]'re increments of 10, i would say [that]'s probably.",,[-rbgpy] [-]
+37,2,132.07,133.07,[it] looks a little off so,,[-]
+38,1,132.07,133.07,if [they].,,[rgp]
+40,2,134.07,135.07,[that] [that]'s not also a 20,,[-] [p]
+42,2,136.07,137.07,cause [it],,[-]
+43,3,137.07,138.07,is [this] one a twen-,"a13-BlueBlock, a126-GreenBlock, a163-RedBlock",[b]
+45,2,139.07,140.07,just [that] one there.,a14-RedBlock,[g]
+47,2,141.07,142.07,"kay, so [it]'s more than twen-",,[p]
+49,2,143.07,159.07,"but [it] almost seems like the 30 takes [it] past, but maybe not. [it]'s just so sensitive. good god. if [they]'re only in increments of 10",,[-] [-] [-] [-]
+50,1,143.07,159.07,"[it]'s. [it], i think. if [they]'re all","a15-BlueBlock, a16-GreenBlock, a127-RedBlock, a128-RedBlock, a164-None",[p] [p] [rgbpy]
+51,2,159.07,160.07,[it] has to be,,[p]
+52,3,159.07,160.07,yeah [it] has to be,,[p]
+53,1,160.07,161.07,i think [it] also,a17-RedBlock,[-]
+59,1,167.07,172.07,so i would guess the yellow one is going to be,"a18-PurpleBlock, a19-YellowBlock, a129-PurpleBlock, a187-YellowBlock",
+65,2,177.07,192.07,we have 30. green is 20. red and small blue are bo-,,
+66,3,177.07,192.07,"yeah, [that]'s considerably heavier, so [this] one, did we say [this] was 30? and [this] was 10.","a23-PurpleBlock, a188-PurpleBlock",[y] [p] [p] [b]
+67,1,192.07,196.07,"so [that]'s, guess th-",,[-]
+68,3,192.07,196.07,"[it]'s definetly not 30 so [it] has to, but [it]'s too heavy","a24-BlueBlock, a25-RedBlock, a26-RedBlock",[y] [y] [y]
+72,2,198.07,199.07,yeah green,a27-PurpleBlock,
+74,2,199.07,202.07,"and big blue, 50.",a189-PurpleBlock,
+76,1,202.07,203.07,big blue,,
+78,3,204.07,205.07,try forty cause [this] one's,,[p]
+80,2,205.07,206.07,unless she's messing with us and some of [these] are in increments of five.,,[rbgpy]
+81,1,205.07,206.07,[this] one has twenty,,[g]
+82,2,206.07,207.07,so [that] should be forty right there,,[pb]
+83,1,206.07,207.07,big blue is thirty? forty,,
+84,1,207.07,208.07,"yeah, i'd say [that] [it]'s at least closest",,[-] [y]
+86,2,208.07,209.07,"i'd say yellow is prob-, like 45 but we could say 50 since we're forced with [these]",,[rbgp]
+93,1,212.07,213.07,yellow is fi-,,
+100,1,245.07,253.07,[it]'s twenty,"a31-YellowBlock, a32-BlueBlock, a33-PurpleBlock, a131-RedBlock, a192-YellowBlock, a193-PurpleBlock",[g]
+104,1,256.07,257.07,guess [that] one's,,[p]
+105,3,257.07,259.07,i think [that] one's pur,,[p]
+106,1,259.07,260.07,purple.,,
+108,2,259.07,260.07,oh [that]'s,,[p]
+109,2,260.07,261.07,purple you're right.,,
+110,3,261.07,262.07,so blue was te-,,
+117,3,280.07,281.07,"so red was 10, yellow was 50. we're great.",,
+118,1,280.07,281.07,"[this] ones 10, [this] ones fifty. [those] ones are, nice",,[r] [y] [gp]
+119,2,280.07,281.07,"we got [it] right? good job, team.",,[-]

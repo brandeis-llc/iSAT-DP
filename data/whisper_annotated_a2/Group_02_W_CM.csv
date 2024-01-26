@@ -1,0 +1,33 @@
+Utterance,Participant,Start,End,Transcript,Action_Objects,Annotation
+5,2,26,28,can we use [this] piece of paper?,,[-]
+18,1,62,66,"yeah, [it]'s like a bit slow to level up.",,[-]
+19,1,66,82,so i'd imagine if [this] needle goes over the red line [that] means [they]'re probably equal,"a1-RedBlock, a2-BlueBlock, a194-RedBlock, a195-BlueBlock",[-] [-] [rb]
+20,2,82,86,"i, i, i think [they] are especially since [it] keeps going back in a",,[rb] [-]
+23,1,86,92,"yeah, [they] also just like look relatively the same size",,[rb]
+24,1,92,97,"size, but [they] could be different material, you know",,[rb]
+26,1,100,102,"yeah, so [that] one's probably 10 grams too.",a3-BlueBlock,[b]
+28,1,102,104,"and then if [that]'s 10 grams, then we put 2. and then,",a4-YellowBlock,[r]
+29,2,104,108,so i'm going to hold back on [that] one because i think [it]'s the heaviest.,a65-YellowBlock,[y] [y]
+31,2,108,112,the green one,a5-BlueBlock,
+34,2,114,119,and [that] looks like [it] might be about even.,a6-YellowBlock,[-] [rbg]
+37,2,134,138,on the first go through i noticed [it] bounced twice and actually get some momentum.,,[-]
+42,1,141,145,"so [that]'s probably 20 grams. you'd imagine, and then",,[g]
+47,2,147,151,"so knowing [that], uh, oh, sorry, the green one was, yeah, twenty","a8-GreenBlock, a9-BlueBlock, a68-GreenBlock",[-]
+50,3,154,158,[this] is what we're looking at next.,"a10-RedBlock, a197-RedBlock",[p]
+53,2,165,167,"yeah, but [it] still feels like [it]'s leaning towards the two blocks.",,[-] [-]
+55,1,167,169,"yeah, [it] does.","a12-PurpleBlock, a70-PurpleBlock",[-]
+56,1,169,181,i guess [it]'s leveling out a bit more,"a13-GreenBlock, a14-RedBlock, a71-RedBlock",[-]
+61,2,196,200,"and there's no increments of five, so you could probably just go with 30 on [that]",,[-]
+62,2,200,218,on [that] note,,[-]
+65,1,220,222,"so then you know we can do the same process with putting [this] on [that] side, checking [this] one.",,[y] [-] [y]
+67,2,225,229,so [that]'s the 20 and the 30.,,[gp]
+68,2,229,238,[it]'s leaning towards one side a bit much.,"a15-GreenBlock, a16-RedBlock, a17-PurpleBlock, a18-YellowBlock, a51-RedBlock, a72-RedBlock, a73-PurpleBlock, a74-YellowBlock",[-]
+77,1,268,272,did we mix [these] up? or?,"a22-BlueBlock, a23-GreenBlock",[gp]
+81,3,290,292,[these] are both ten?,"a26-PurpleBlock, a27-BlueBlock",[rb]
+83,3,295,297,blue or purple?,,
+85,1,297,300,i think purple or blue,a28-BlueBlock,
+86,2,300,303,[this] would be blue,a29-BlueBlock,[b]
+87,2,303,304,[this] would be purple,,[p]
+89,1,304,305,"yeah, [that]'s like a navy blue.",,[b]
+91,2,307,332,[they] were both blue un-,,[bp]
+102,2,351,353,get the weight of the mystery block,,

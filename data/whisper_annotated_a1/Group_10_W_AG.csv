@@ -1,0 +1,95 @@
+Utterance,Participant,Start,End,Transcript,Action_Objects,Annotation
+11,3,55,57,okay so the red is 10 grams?,,
+16,1,59,66,like let's assume [that] the bigger ones are um,a1-GreenBlock,[-]
+19,2,69,71,and the red one as well.,"a2-RedBlock, a127-GreenBlock, a128-RedBlock",
+21,2,74,78,why [that] selection?,,[rbg]
+23,3,79,82,yeah i guess [this] is like 20 and [this] is like 10 and 10.,,[g] [rb]
+25,3,83,86,i mean why don't we just first check out whether [these] two are equal?,,[rb]
+27,2,87,88,ugh just don't want to touch [it],,[-]
+29,3,88,97,like [they]'re fairly equal,"a3-GreenBlock, a73-BlueBlock, a74-RedBlock, a129-GreenBlock, a130-BlueBlock, a131-RedBlock",[rb]
+31,3,100,101,so then [that]'s 20 and [these] two are 10.,,[g] [rb]
+32,1,101,104,[that],,[-]
+35,2,105,109,just a sec let's settle. yeah [they]'re,,[-]
+39,2,118,122,yeah [they]'re equal,,[rb]
+41,3,122,126,now let's do [these] here i can already,"a4-PurpleBlock, a75-RedBlock, a76-GreenBlock, a119-BlueBlock, a132-None, a133-GreenBlock, a134-None",[gp]
+43,3,126,129,tell [this] one's heavier yeah.,a5-YellowBlock,[p]
+47,1,137,139,[they]'re equal,,[rgp]
+48,1,139,141,[those],,[-]
+53,3,146,148,try [this] one out as well like after some,,[b]
+54,3,148,150,time wait wait wait let's see if [it] does.,,[-]
+56,3,151,158,because i have a feeling [this] is a little more.,"a6-BlueBlock, a136-BlueBlock",[p]
+58,3,158,163,i'm not sure if [it] was just a bit more like we would be able to tell the difference.,,[p]
+61,3,167,169,able to see [that].,,[-]
+65,2,180,184,i'm guessing [it]'s a little bit to the left a little bit to the left. like,,[-]
+66,2,184,187,[it] touches the red line but on the left-hand side of the left line.,,[-]
+69,3,187,190,so let's try to put [that] on top an-,,[r]
+70,2,190,191,[it]'s going to be,,[rbg]
+72,3,191,193,so [it]'s definitely not,,[p]
+78,3,198,200,[this] one's 20 [this] one's 10.,,[g] [r]
+80,2,200,202,do we know [this] one's 20?,"a7-BlueBlock, a137-BlueBlock",[g]
+82,3,202,203,[it].,,[-]
+84,2,204,206,removed [it] and checked the two tens. remember?,,[g]
+86,2,207,208,[this] one.,,[g]
+99,1,218,225,um you know let's add [this],"a9-PurpleBlock, a10-GreenBlock, a11-PurpleBlock, a79-GreenBlock, a80-YellowBlock",[-]
+104,1,234,247,do [these] make sense,,[gpy]
+105,2,247,249,so [this] one's 30,,[p]
+109,2,250,251,what's [this] one twenty,,[g]
+112,2,252,253,so [this] one,,[y]
+117,3,264,266,[it]'s not going to go anywhere i guess,,[-]
+118,3,266,269,[it]'s just. oooh,,[-]
+119,2,266,269,[it]'s more tilting towards the right so less than,,[-]
+127,2,278,280,ugh [this] is like let [this] settle now,a13-RedBlock,[-] [-]
+129,3,280,282,[this] gonna just  be too heavy,,[gp]
+130,3,282,284,i think [this] is around yeah,,[y]
+132,2,284,287,[this] is like less than fifty less than fifty,,[y]
+133,3,287,290,like if [those] are than fifty then [this] is less than,,[gp] [y]
+140,3,298,299,feel [it] thought i really,,[y]
+141,3,299,300,really wanna see if [it]'s the heaviest,a14-BlueBlock,[y]
+142,2,300,302,yeah [it] is,,[-]
+143,2,302,303,yeah yeah yeah [it]'s,,[-]
+144,2,303,304,almost settled down so [it]'s less than fifty,,[y]
+145,3,303,304,oh yeah [this] is,,[y]
+146,3,304,306,[this] is fifty grams i mean,a140-YellowBlock,[y]
+148,1,306,308,[this] was thirty right?,"a15-YellowBlock, a81-GreenBlock, a141-GreenBlock",[p]
+152,1,309,310,[this] was,a82-PurpleBlock,[g]
+154,1,310,311,twenty and [these] are,a16-GreenBlock,[rb]
+156,2,312,313,and [that]'s fifty,a17-BlueBlock,[y]
+159,2,317,318,so [that]'s [it],,[-] [-]
+165,1,321,323,[that]'s not [it],,[-] [-]
+173,1,329,330,to enter [it] into the lap,,[-]
+175,3,332,333,let's do [that],,[-]
+182,2,336,343,yellow one's fifty,,
+187,2,346,347,green's,,
+188,3,346,347,green,,
+189,2,347,349,wait green,,
+191,2,349,350,green's twenty,,
+194,1,353,354,and there are two blue or,,
+198,3,356,357,blue and red,,
+199,2,356,357,blue blue and red,,
+201,3,360,361,the red i purple,,
+202,2,361,362,purple's the,,
+208,3,364,365,let's do [it],,[-]
+211,1,367,368,feel [that],,[-]
+212,1,368,369,is [this] what,,[rb]
+213,1,369,370,[they]'re referring to as purple,,[-]
+214,1,370,371,purple because blue and,,
+215,1,371,372,red makes purple,,
+217,1,372,373,purple right?,"a18-RedBlock, a84-BlueBlock",
+220,3,374,375,[this] [this] is the one which is,,[p] [p]
+221,1,375,376,[they] give,,[-]
+222,2,375,376,so like [they] give,,[-]
+223,3,375,376,purple,,
+225,2,376,377,the weight of [this] one,,[r]
+226,2,377,378,[they] give the weight of the,,[-]
+228,2,378,379,red one,,
+230,2,379,380,[that]'s why [they] didn't,,[-] [-]
+231,2,380,381,inlcude [this] one,,[r]
+234,2,381,382,[they] already gave us,a19-RedBlock,[-]
+238,3,383,384,let's go ahead and hit [this] red is 10 grams yellow is fifty grams green i mean,,[-]
+245,3,397,398,no the red,,
+247,3,398,399,is ten blue is ten,,
+248,3,399,400,ten. yellow is fifty,,
+255,2,403,404,where's the mystery block,,
+259,3,407,408,mystery block,,
+260,3,408,409,woah. wheres the blue,,
+261,1,408,409,mhh two of [them],,[-]

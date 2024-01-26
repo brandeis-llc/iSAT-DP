@@ -1,0 +1,49 @@
+Utterance,Participant,Start,End,Transcript,Action_Objects,Annotation
+4,2,15,22,[that] was,,[-]
+19,3,65,67,[they] are not all labeled,"a3-YellowBlock, a123-BlueBlock, a206-RedBlock",[yrbgp]
+20,3,67,68,[this] has more weight,,[y]
+27,3,75,82,compare let's compare the red to the blue and see if we can get a baseline of the blue.,"a5-GreenBlock, a125-BlueBlock, a228-None, a229-BlueBlock",
+31,2,82,84,is [it]?,,[b]
+32,1,85,90,once [it] stops. okay,,[-]
+34,1,91,92,so [this] is twenty,,[p]
+35,2,91,92,is [it],a6-GreenBlock,[b]
+37,1,93,94,yeah cause [this] is,,[rb]
+38,1,94,95,ten as long as [it]'s,,[-]
+39,2,94,95,and [this] was equal to the,,[p]
+41,2,95,96,[those] two?,,[br]
+42,1,96,99,[it]'s ten the same.,"a7-BlueBlock, a126-GreenBlock, a230-Blueblock",[-]
+43,1,99,103,then [this] was,a208-GreenBlock,[g]
+45,1,105,109,i feel like [this] one's oh,"a8-YellowBlock, a127-PurpleBlock, a209-GreenBlock, a231-GreenBlock, a246-Purpleblock",[p]
+49,1,110,111,yeah so [this] is,"a9-GreenBlock, a232-GreenBlock",[grb]
+53,2,116,120,so [it]'s not,a234-None,[-]
+54,1,120,121,[it] doesn't drop completely,,[-]
+55,1,121,123,yeah we can consider [this] to be 30,,[p]
+61,1,125,127,[it] doesn't drop,,[-]
+63,2,127,129,well [it]'s not and [it]'s not twenty,,[p] [p]
+64,2,129,130,yeah [it]'s gotta be thi-,,[p]
+68,3,131,132,okay so [that]'s thrity. are we,,[p]
+70,3,132,133,writing [this] down somewhere?,a128-PurpleBlock,[-]
+72,2,134,135,on [this] paper?,a11-PurpleBlock,[-]
+75,2,137,141,"well, let's keep track of [it] in our head. wait","a12-RedBlock, a13-BlueBlock, a14-YellowBlock, a129-Greenblock, a210-GreenBlock, a223-None, a235-YellowBlock",[-]
+76,2,141,142,"[that], oh yeah, yeah",,[-]
+82,3,155,158,ah so yellow we er said or red and blue,,
+83,1,158,160,okay so [that] we can say [this] is fifty,,[-] [y]
+90,2,163,165,weren't [those],,[pg]
+92,1,166,167,no [this] is 20,,[p]
+93,2,166,167,or no only one of [them],,[pg]
+98,3,171,172,purple is,,
+100,3,172,175,thirty and so [that] would mean yellow is,,[-]
+104,3,179,180,alright we all happy with [that]?,,[-]
+105,1,179,180,[this],"a19-PurpleBlock, a131-GreenBlock, a239-None",[-]
+107,3,181,183,like [this]?,,[-]
+108,3,183,184,are we happy with [these] solutions?,,[-]
+109,2,184,185,yellow is fifty,,
+111,2,185,186,green,,
+112,3,185,186,blue is ten,,
+113,3,186,187,green,,
+114,2,186,187,green is twenty,,
+115,3,187,188,green is twenty.,"a20-BlueBlock, a132-RedBlock",
+122,1,194,195,purple is 30 purple.,a21-YellowBlock,
+127,3,203,205,so [it]'s like [that]. hey cool.,,[-] [-]
+128,2,205,209,we did [it].,,[-]
+130,1,209,213,is [that] [it]?,a24-MysteryBlock,[-] [-]

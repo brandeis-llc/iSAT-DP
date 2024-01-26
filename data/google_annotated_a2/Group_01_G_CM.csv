@@ -1,0 +1,42 @@
+Utterance,Participant,Start,End,Transcript,Action_Objects,Annotation
+17,3,62.58,73.53,um [it]'s turned off,,[-]
+20,1,75.81,84.3,ok well [it] would be nine minus ten,,[-]
+23,2,75.81,84.3,ok [that]'s just ten so then,"a2-RedBlock, a3-BlueBlock, a206-RedBlock, a207-BlueBlock",[r]
+24,1,86.07,89.04,just like put [it] on,,[-]
+27,3,95.19,97.17,[it] seems pretty balanced,,[rb]
+28,1,97.56,102.03,yeah ok so now we know [that] [this] is also ten,"a4-BlueBlock, a208-BlueBlock",[-] [b]
+32,1,106.23,110.01,what would we maybe put [that] one on there too,"a5-PurpleBlock, a209-PurpleBlock",[b]
+34,2,110.16,114.24,[it]'s more,a6-BlueBlock,[p]
+35,1,114.87,120.33,lets try [this] one oh gee louise [this] one,"a7-PurpleBlock, a8-YellowBlock, a9-YellowBlock, a10-GreenBlock, a210-PurpleBlock, a25-None, a26-None, a211-GreenBlock",[y] [g]
+40,2,127.35,132,ok so [this] one is probably twenty ten ten twenty,,[g]
+43,1,132.27,139.65,ok so now lets start at thirty alright put one of [those] on there,"a11-GreenBlock, a12-RedBlock, a13-GreenBlock, a14-PurpleBlock, a29-GreenBlock",[yp]
+45,2,140.73,145.89,probably thirty at [this] point,a212-PurpleBlock,[-]
+48,1,148.86,159.42,ok so we got ok yeah [this] one is really heavy so lets do the a [this] and a ten,"a15-PurpleBlock, a16-YellowBlock, a17-GreenBlock, a31-PurpleBlock, a33-BlueBlock",[y] [p]
+51,1,164.37,171.99,interesting so [that]'s ten twenty,"a19-BlueBlock, a213-BlueBlock",[-]
+52,3,172.56,187.83,we can replace one of [these] with the twenty to get,,[rb]
+53,2,172.56,187.83,yeah yeah the blue dark blue one is thirty [that]'s the larger one [it]'s slightly heavier yeah,,[-] [rp]
+54,1,172.56,187.83,so we said [this] ones thirty i still feel like [that]'s heavier and [this] one is twenty,a20-GreenBlock,[y] [rp] [g]
+56,1,188.1,196.44,ok and then put [that] on [that] one,"a36-BlueBlock, a37-BlueBlock, a228-BlueBlock, a229-GreenBlock, a49-BlueBlock, a58-GreenBlock",[b] [y]
+57,2,198.15,202.14,how much is the dark blue small one ten,,
+58,1,198.15,202.14,ten [they]'re both,,[rb]
+59,2,203.49,206.37,oh gosh i think i got [them] mixed up,,[bypgr]
+60,1,203.49,206.37,assuming [that] [this] was,,[-] [-]
+61,1,207.06,210.87,yeah im thinking [that] [it]'s ten ten twenty thirty,,[-] [-]
+64,2,216.63,219.06,[it]'s just like slightly,,[-]
+67,1,228.06,231.51,and now [it] stopped being too heavy,,[-]
+68,1,231.54,233.52,so [this] is supposedly,,[pg]
+69,1,234.27,239.82,thirty fourty fifty correct and [it]'s still heavier than [this] thing,,[pg] [y]
+73,1,251.88,258.72,so thirty [this] is also forty right so [this] if forty,,[pb] [pb]
+74,2,251.88,258.72,ok so [that]'s one's twenty right,"a43-PurpleBlock, a61-GreenBlock, a62-BlueBlock",[g]
+75,1,260.01,263.82,[this] is fifty [it]'s not,"a44-GreenBlock, a54-GreenBlock",[pg] [-]
+76,1,264.93,267.36,yo [that]'s close enough ok so,,[-]
+78,3,267.57,272.58,yeah fifty so we say yellow is fifty,"a45-YellowBlock, a46-PurpleBlock, a55-YellowBlock, a56-PurpleBlock",
+79,1,274.26,280.32,i think [that]'s i think [that]'s good,,[-] [-]
+80,3,274.26,280.32,and green is twenty ok so which one is blue and which one is purple,,
+82,3,281.25,286.26,ok so blue is ten and purple is,,
+83,2,281.25,286.26,i think [this] one is purple and [this] one is blue,a214-BlueBlock,[p] [b]
+86,1,286.56,292.47,yes verify real quick but i think [it] is,"a215-PurpleBlock, a47-GreenBlock, a65-PurpleBlock, a57-None, a119-PurpleBlock, a64-RedBlock",[-]
+88,1,295.32,304.62,yeah we got [them],"a66-PurpleBlock, a67-GreenBlock, a120-PurpleBlock, a121-None, a122-RedBlock",[-]
+91,1,304.68,307.2,[that] looks good to me,,[-]
+92,1,308.28,312.3,uh blue yeah so you said purple,,
+95,2,312.93,318.69,purple is thirty red is twenty yellow is fifty,,

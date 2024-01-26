@@ -1,0 +1,43 @@
+Utterance,Participant,Start,End,Transcript,Action_Objects,Annotation
+12,3,54,60,[it]'s right there,,[-]
+26,3,71,72,[it]'s off,,[-]
+31,1,95,97,"[that]'s ten so then, does the slider move",,[r]
+32,2,95,97,one [that]'s 10. like put [it] on. well hold on lets just uh slow [that] down,,[r] [b] [-]
+36,1,103,104,so now we know [that] [this] is also 10 um,a4-BlueBlock,[-] [b]
+41,1,110,112,so now what would we maybe put [that] one on there too,a6-BlueBlock,[b]
+42,1,112,113,and then see if theres [that]'s 20,,[p]
+43,2,113,115,if [it]'s more,"a7-PurpleBlock, a210-PurpleBlock",[p]
+45,1,117,119,lets try [this] one [this] ones oh,"a9-YellowBlock, a25-None, a26-None",[y] [y]
+46,1,122,127,"[this] one, okay",a211-GreenBlock,[g]
+49,2,129,132,okay so [this] one is probably 20,,[g]
+58,1,143,144,put one of [those] on there,,[py]
+59,1,144,145,"ooh, [it]'s looking like thirty",,[p]
+62,2,148,149,thirty in [this] one,,[-]
+69,1,162,163,"yeah [this] ones really heavy so lets do the uh, lets do [this] and a ten","a18-RedBlock, a32-YellowBlock, a34-PurpleBlock, a35-YellowBlock",[y] [p]
+82,1,175,190,[this] ones thirty?,a20-GreenBlock,[p]
+84,1,190,191,is [that] right?,,[-]
+86,3,191,197,we can replace one of [these] with a twenty to get sixty here,,[rb]
+87,1,191,197,"i just don't feel like, uh [that]'s heavier so, and [this] one is twenty?",,[y] [g]
+88,2,191,197,"we got the blue, the dark blue is thirty, thats the larger one. [it]'s slightly heavier yeah","a36-BlueBlock, a37-BlueBlock, a228-BlueBlock, a229-GreenBlock, a49-BlueBlock, a58-GreenBlock",[p]
+90,1,201,202,and then put [that] on [that] one,,[b] [y]
+91,2,202,203,how much is the dark blue small one?,,
+95,1,205,206,assuming [that],,[-]
+96,1,206,207,[that] [this] is,,[-] [-]
+98,2,207,208,got [them] mixed,,[bypgr]
+101,1,210,211,[that] [it]'s ten ten,,[-] [-]
+107,1,237,238,"um and then we did fifty, and then we did sixty. nah stop being ------ so [this] is supposedly thirty, fourty, fifty correct?",,[gp]
+111,1,245,246,still heavier than [this],a40-PurpleBlock,[y]
+112,1,246,247,"[this] thing, so have we done fourty?","a41-RedBlock, a53-None, a59-BlueBlock",[y]
+117,1,255,256,[this] is also,a61-GreenBlock,[bp]
+119,2,257,258,so [that] ones twenty right?,"a43-PurpleBlock, a62-BlueBlock",[g]
+123,1,259,260,so [this] is,,[bp]
+127,1,275,276,"thirty [this] is fifty and then we found out [that] [that]'s. yo [that]'s close enough, so fifty. boom",,[gp] [-] [gp] [gpy]
+128,3,276,277,"so we say yellow is fifty, green is",,
+133,3,283,284,okay so which ones blue and which ones purple?,,
+135,2,284,287,i think [this] ones purple and [this] ones blue,a214-BlueBlock,[p] [b]
+137,3,288,289,blues ten and purple was thirty?,a215-PurpleBlock,
+141,1,293,294,what i think [it] is,"a65-PurpleBlock, a119-PurpleBlock",[-]
+151,1,306,307,[that] looks,,[-]
+156,1,311,312,blue yeah,,
+157,1,312,313,so [this] is purple?,,[p]
+162,2,322,330,"red was twenty, yellows fifty",,
